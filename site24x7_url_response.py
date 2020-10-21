@@ -60,3 +60,6 @@ InfluxClient = InfluxDBClient(host='192.168.161.181', port=8086, database='site2
 
 #InfluxClient.write_points(points_list)
 print(points_list)
+
+
+###testing save####
